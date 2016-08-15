@@ -1,7 +1,6 @@
 # coding=utf-8
 #Correr en Python 2!
 #Santiago Liñán - s.linan10@uniandes.edu.co
-
 try:
     x=int(raw_input('Número:'))
 except ValueError:
@@ -22,5 +21,3 @@ while n < x:
 	
 print 'Serie de Fibonacci menor que %d:' %(x)
 print fibo
-
-
