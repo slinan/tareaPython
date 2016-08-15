@@ -1,6 +1,6 @@
 # coding=utf-8
 #Correr en Python 2!
-#Santiago Liñán - s.linan10@uniandes.edu.co
+#Santiago Liñán - s.linan10
 try:
     x=int(raw_input('Número:'))
 except ValueError:
